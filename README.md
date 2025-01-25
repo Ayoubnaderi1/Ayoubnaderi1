@@ -1,7 +1,7 @@
 # Welcome to My Profile
 
 Hi there! 👋  
-I'm Ayoubnaderi, passionate about artificial intelligence, cognitive science, and brain data analysis. 🚀
+I'm Ayoubnaderi, passionate about artificial intelligence, cognitive science, and brain data analysis. 🧠
 
 ## Current Projects
 
